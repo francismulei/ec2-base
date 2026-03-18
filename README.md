@@ -1,2 +1,2 @@
 # ec2-database
-arespiratory to document how create an database 
+arepository to document how create an database 
